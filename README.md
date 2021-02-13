@@ -13,7 +13,7 @@ We downloaded rental property data from the api for Airbnb and Regular rentals s
 
 ## Python Libraries
 Pandas, Seaborn, gmap, csv
-gmaps used to plot geographic locations of properties/neighborhoods across LA.  Pandas used for data manipulation. Graphs generated in Seaborn.  
+gmaps was used to plot geographic locations of properties/neighborhoods across LA.  Pandas used for data manipulation. Graphs generated in Seaborn.  
 
 ## Research Questions/rationale
 We investigated the following questions as a way of exploratory analysis of the data
