@@ -22,5 +22,5 @@ Are there differences between Airbnb rentals vs Regular?
 How are the properties grouped by type e.g. house, apartment etc? 
 
 ## Findings/Conclusions
-Top 10 neighborhoods are similar to neighborhoods which are most expensive to purchase homes e.g. Bel-Air, Beverly Hills, Pacific Palisades, an area spanning about 50-60 miles. 
+Top 10 neighborhoods are similar to neighborhoods which are most expensive to purchase homes e.g. Bel-Air, Beverly Hills, Pacific Palisades, an area spanning about 50-60 miles. About 90% of upper end properties are single family homes
 Data is heavily right skewed for both Airbnb and Regular rental properties. Majority of regular renters are spending less than $5,000/mth, while Airbnb renters are spending a bit less than $6,000/mth, slightly higher than renters. Airbnb rentals are taking advantage of demand for rentals in expensive neigborhoods to push up prices over Regular rental properties. At the upper end of the spectrum, over 50 percent of potential outlier properties belong to either Palisades or Venice. Venice and Studio City are also on the list of desirable rentals because of tourism (either beaches, or close proximity to movie studios)
