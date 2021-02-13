@@ -2,7 +2,7 @@
 					
 by: James Milne, Rebecca Bland, Divya Manthena, Katherine Matovic
 
-## PROJECT DESCRIPTION AND RESEARCH QUESTION:
+## PROJECT DESCRIPTION AND RESEARCH QUESTION
 Our client, a major San Francisco based commercial real estate private investor is looking to add additional rental properties to their portfolio. As part of their preliminary analysis, they have asked to find out: What are the top 10 rental neighbourhoods in Los Angeles and how do they differ for Airbnb vs Regular monthly rental properties?
 
 ## Data Overview
