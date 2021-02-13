@@ -1,4 +1,4 @@
-# Los Angeles Real Estate
+# Los Angeles Rental Market Real Estate
 					
 by: James Milne, Rebecca Bland, Divya Manthena, Katherine Matovic
 
@@ -15,7 +15,7 @@ We downloaded rental property data from the api for Airbnb and Regular rentals s
 Pandas, Matplotlib, Seaborn, gmap, csv
 gmaps used to plot geographic locations of properties/neighborhoods across LA.  Pandas used for data manipulation. Graphs generated in matplotlib and Seaborn.  
 
-## Interesting Questions/rationale
+## Research Questions/rationale
 We investigated the following questions as a way of exploratory analysis of the data
 Where are the properties located on a map of Los Angeles? 
 Are there differences between Airbnb rentals vs Regular? 
